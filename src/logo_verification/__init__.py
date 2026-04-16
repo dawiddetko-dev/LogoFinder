@@ -1,0 +1,1 @@
+"""Logo verification package."""
